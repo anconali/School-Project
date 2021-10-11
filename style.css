@@ -1,0 +1,470 @@
+
+
+
+.R{
+    animation: R 5s infinite linear;
+}
+
+@keyframes R {
+    0%{
+        color: rgb(255, 0, 0);
+    }
+    20%{
+        color: rgb(25, 0, 255);
+    }
+    40%{
+        color: rgb(255, 0, 191);
+    }
+    60%{
+        color: rgb(255, 205, 43);
+    }
+
+    80%{
+        color: rgb(27, 202, 255);
+    }
+    100%{
+        color: rgb(0, 255, 21);
+    }  
+}
+
+.C1{
+    animation: R 6s infinite linear;
+}
+
+@keyframes R {
+    0%{
+        color: rgb(255, 0, 0);
+    }
+    20%{
+        color: rgb(25, 0, 255);
+    }
+    40%{
+        color: rgb(255, 0, 191);
+    }
+    60%{
+        color: rgb(255, 205, 43);
+    }
+
+    80%{
+        color: rgb(27, 202, 255);
+    }
+    100%{
+        color: rgb(0, 255, 21);
+    } 
+}
+
+.C2{
+    animation: R 7s infinite linear;
+}
+
+@keyframes R {
+    0%{
+        color: rgb(255, 0, 0);
+    }
+    20%{
+        color: rgb(25, 0, 255);
+    }
+    40%{
+        color: rgb(255, 0, 191);
+    }
+    60%{
+        color: rgb(255, 205, 43);
+    }
+
+    80%{
+        color: rgb(27, 202, 255);
+    }
+    100%{
+        color: rgb(0, 255, 21);
+    } 
+}
+
+.C3{
+    animation: R 8s infinite linear;
+}
+
+@keyframes R {
+    0%{
+        color: rgb(255, 0, 0);
+    }
+    20%{
+        color: rgb(25, 0, 255);
+    }
+    40%{
+        color: rgb(255, 0, 191);
+    }
+    60%{
+        color: rgb(255, 205, 43);
+    }
+
+    80%{
+        color: rgb(27, 202, 255);
+    }
+    100%{
+        color: rgb(0, 255, 21);
+    }  
+}
+
+
+.G{
+    animation: R 9s infinite linear;
+}
+
+@keyframes R {
+    0%{
+        color: rgb(255, 0, 0);
+    }
+    20%{
+        color: rgb(25, 0, 255);
+    }
+    40%{
+        color: rgb(255, 0, 191);
+    }
+    60%{
+        color: rgb(255, 205, 43);
+    }
+
+    80%{
+        color: rgb(27, 202, 255);
+    }
+    100%{
+        color: rgb(0, 255, 21);
+    } 
+}
+
+
+.P{
+    animation: R 10s infinite linear;
+}
+
+@keyframes R {
+    0%{
+        color: rgb(255, 0, 0);
+    }
+    20%{
+        color: rgb(25, 0, 255);
+    }
+    40%{
+        color: rgb(255, 0, 191);
+    }
+    60%{
+        color: rgb(255, 205, 43);
+    }
+
+    80%{
+        color: rgb(27, 202, 255);
+    }
+    100%{
+        color: rgb(0, 255, 21);
+    }  
+}
+
+.S{
+    animation: R 11s infinite linear;
+}
+
+@keyframes R {
+    0%{
+        color: rgb(255, 0, 0);
+    }
+    20%{
+        color: rgb(25, 0, 255);
+    }
+    40%{
+        color: rgb(255, 0, 191);
+    }
+    60%{
+        color: rgb(255, 205, 43);
+    }
+
+    80%{
+        color: rgb(27, 202, 255);
+    }
+    100%{
+        color: rgb(0, 255, 21);
+    }  
+}
+
+/*nav end*/
+
+
+/*slider start*/
+.slider{
+    width: 100%;
+    height: 500px;
+    animation: slider 20s infinite linear;
+    background-image: url(/img/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .6;
+}
+
+/*slider end*/
+
+/*card start*/
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    background: #000;
+}
+
+
+.container{
+    width: 99.5%;
+    height: 600px;
+    background: rgb(15, 1, 13);
+    margin: 0 auto;
+    border: 2px solid blueviolet;
+}
+
+.card1{
+    width: 25%;
+    height: 100%;
+    background: rgb(7, 6, 7);
+    float: left;
+    border: 2px solid blueviolet;
+}
+
+.img1{
+    width: 100%;
+    height: 40%;
+    border-radius: 50%;
+    border: 1px solid blueviolet;
+}
+
+.card-title{
+    width: 100%;
+    height: 25px;
+    background: rgb(165, 97, 228);
+    border: 1px solid blueviolet;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.3em;
+    color: rgb(255, 254, 254);
+}
+
+.card-desc{
+    background: rgb(119, 81, 180);
+}
+
+p{
+    text-align: justify;
+    color: rgb(247, 255, 255);
+    overflow: hidden;
+}
+
+
+.card2{
+    width: 25%;
+    height: 100%;
+    background: rgb(7, 6, 7);
+    border: 2px solid blueviolet;
+    float: left;
+}
+
+.img1{
+    width: 100%;
+    height: 40%;
+    border-radius: 50%;
+    border: 1px solid blueviolet;
+}
+
+.card-title{
+    width: 100%;
+    height: 25px;
+    background: rgb(165, 97, 228);
+    border: 1px solid blueviolet;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.3em;
+    color: rgb(255, 254, 254);
+}
+
+.card-desc{
+    background: rgb(119, 81, 180);
+}
+
+p{
+    text-align: justify;
+    color: rgb(247, 255, 255);
+    overflow: hidden;
+}
+
+.card3{
+    width: 24.7%;
+    height: 100%;
+    background: rgb(7, 6, 7);
+    border: 2px solid blueviolet;
+    float: left;
+}
+
+.img1{
+    width: 100%;
+    height: 40%;
+    border-radius: 50%;
+    border: 1px solid blueviolet;
+}
+
+.card-title{
+    width: 100%;
+    height: 25px;
+    background: rgb(165, 97, 228);
+    border: 1px solid blueviolet;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.3em;
+    color: rgb(255, 254, 254);
+}
+
+.card-desc{
+    background: rgb(119, 81, 180);
+}
+
+p{
+    text-align: justify;
+    color: rgb(247, 255, 255);
+    overflow: hidden;
+}
+
+
+.card4{
+    width: 25%;
+    height: 100%;
+    background: rgb(5, 1, 5);
+    border: 2px solid blueviolet;
+    float: right;
+}
+
+.img1{
+    width: 100%;
+    height: 40%;
+    border-radius: 50%;
+    border: 1px solid blueviolet;
+}
+
+.card-title{
+    width: 100%;
+    height: 25px;
+    background: rgb(165, 97, 228);
+    border: 1px solid blueviolet;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.3em;
+    color: rgb(255, 254, 254);
+}
+
+.card-desc{
+    background: rgb(119, 81, 180);
+}
+
+p{
+    text-align: justify;
+    color: rgb(247, 255, 255);
+    overflow: hidden;
+}
+
+
+
+@keyframes h1{
+    0%{
+        font-size: 1em;
+        color: rgb(200, 253, 9);
+        transition-delay: 5s;
+
+    }
+
+    10%{
+        font-size: 1.1em;
+        color: rgb(241, 245, 38);
+        transition-delay: 5s;
+
+    }
+
+    20%{
+        font-size: 1.2em;
+        color: rgb(170, 12, 243);
+        transition-delay: 5s;
+
+    }
+
+    30%{
+        font-size: 1.3em;
+        color: rgb(0, 255, 200);
+        transition-delay: 5s;
+
+    }
+
+    40%{
+        font-size: 1.4em;
+        color: rgb(255, 0, 0);
+        transition-delay: 5s;
+
+    }
+
+    60%{
+        font-size: 1.5em;
+        color: rgb(245, 11, 253);
+        transition-delay: 5s;
+
+    }
+
+    60%{
+        font-size: 1.6em;
+        color:rgb(0, 17, 255)0;
+        transition-delay: 5s;
+
+    }
+
+    70%{
+        font-size: 1.7em;
+        color: rgb(17, 188, 255);
+        transition-delay: 5s;
+
+    }
+
+    80%{
+        font-size: 1.8em;
+       color: rgb(36, 255, 7);
+       transition-delay: 5s;
+
+    }
+
+    90%{
+        font-size: 1.9em;
+        color: rgb(255, 209, 4);
+        transition-delay: 5s;
+
+    }
+
+    100%{
+        font-size: 2em;
+        color: red;
+        transition-delay: 5s;
+
+
+    }
+}
+/*card end*/
+
+/*form start*/
+
+
+
+form{
+  
+    margin-top: 40px;
+    margin-left: 470px;
+}
+table, tr, th ,td{
+    border: 1px solid wheat;
+}
+/*form end*/
